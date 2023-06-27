@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A612B2BE-BE90-4F4A-84EE-F0D7B69CEC26}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>hotel_management_app</RootNamespace>
+    <AssemblyName>hotel-management-app</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=6.3.0.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.3.0\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json.Bson, Version=1.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.Bson.1.0.2\lib\net45\Newtonsoft.Json.Bson.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\SystemConfig.cs" />
+    <Compile Include="Common\Ultility.cs" />
+    <Compile Include="Controls\BaseButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\OvalPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\Authenticate\AuthenticateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Authenticate\AuthenticateForm.Designer.cs">
+      <DependentUpon>AuthenticateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Authenticate\ForgotPasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Authenticate\ForgotPasswordForm.Designer.cs">
+      <DependentUpon>ForgotPasswordForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Authenticate\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Authenticate\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Authenticate\RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Authenticate\RegisterForm.Designer.cs">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CustomerManagement\CustomerManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CustomerManagement\CustomerManagementForm.Designer.cs">
+      <DependentUpon>CustomerManagementForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\HomePage\HomePageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\HomePage\HomePageForm.Designer.cs">
+      <DependentUpon>HomePageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\HotelRoomManagement\HotelRoomDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\HotelRoomManagement\HotelRoomDetailForm.Designer.cs">
+      <DependentUpon>HotelRoomDetailForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\HotelRoomManagement\HotelRoomManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\HotelRoomManagement\HotelRoomManagementForm.Designer.cs">
+      <DependentUpon>HotelRoomManagementForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\HotelRoomPlane\HotelRoomItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\HotelRoomPlane\HotelRoomItem.Designer.cs">
+      <DependentUpon>HotelRoomItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\HotelRoomPlane\HotelRoomPlanForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\HotelRoomPlane\HotelRoomPlanForm.Designer.cs">
+      <DependentUpon>HotelRoomPlanForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\HotelRoomPlane\RoomHotelDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\HotelRoomPlane\RoomHotelDetailForm.Designer.cs">
+      <DependentUpon>RoomHotelDetailForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserManagememt\UserManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserManagememt\UserManagementForm.Designer.cs">
+      <DependentUpon>UserManagementForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\BaseModel.cs" />
+    <Compile Include="Models\CustomerModel.cs" />
+    <Compile Include="Models\HotelRoomModel.cs" />
+    <Compile Include="Models\UserModel.cs" />
+    <Compile Include="Models\HotelRoomPlanDto.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\Authenticate\AuthenticateForm.resx">
+      <DependentUpon>AuthenticateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Authenticate\ForgotPasswordForm.resx">
+      <DependentUpon>ForgotPasswordForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Authenticate\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Authenticate\RegisterForm.resx">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CustomerManagement\CustomerManagementForm.resx">
+      <DependentUpon>CustomerManagementForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\HomePage\HomePageForm.resx">
+      <DependentUpon>HomePageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\HotelRoomManagement\HotelRoomDetailForm.resx">
+      <DependentUpon>HotelRoomDetailForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\HotelRoomManagement\HotelRoomManagementForm.resx">
+      <DependentUpon>HotelRoomManagementForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\HotelRoomPlane\HotelRoomItem.resx">
+      <DependentUpon>HotelRoomItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\HotelRoomPlane\HotelRoomPlanForm.resx">
+      <DependentUpon>HotelRoomPlanForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\HotelRoomPlane\RoomHotelDetailForm.resx">
+      <DependentUpon>RoomHotelDetailForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserManagememt\UserManagementForm.resx">
+      <DependentUpon>UserManagementForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Actions\" />
+    <Folder Include="Dto\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Requests\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
