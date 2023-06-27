@@ -1,0 +1,90 @@
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\bin\Debug\hotel-management-app.exe.config
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\bin\Debug\hotel-management-app.exe
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\bin\Debug\hotel-management-app.pdb
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\obj\Debug\hotel-management-app.csproj.AssemblyReference.cache
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\obj\Debug\hotel-management-app.csproj.SuggestedBindingRedirects.cache
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\obj\Debug\hotel_management_app.Forms.Authenticate.AuthenticateForm.resources
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\obj\Debug\hotel_management_app.Forms.Authenticate.ForgotPasswordForm.resources
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\obj\Debug\hotel_management_app.Forms.Authenticate.LoginForm.resources
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\obj\Debug\hotel_management_app.Forms.Authenticate.RegisterForm.resources
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\obj\Debug\hotel_management_app.Forms.CustomerManagement.CustomerManagementForm.resources
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\obj\Debug\hotel_management_app.Forms.HomePage.HomePageForm.resources
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\obj\Debug\hotel_management_app.Forms.HotelRoomManagement.HotelRoomDetailForm.resources
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\obj\Debug\hotel_management_app.Forms.HotelRoomManagement.HotelRoomManagementForm.resources
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\obj\Debug\hotel_management_app.Forms.HotelRoom.HotelRoomItem.resources
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\obj\Debug\hotel_management_app.Forms.HotelRoom.HotelRoomPlanForm.resources
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\obj\Debug\hotel_management_app.Forms.HotelRoomPlane.RoomHotelDetailForm.resources
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\obj\Debug\hotel_management_app.Forms.UserManagememt.UserManagementForm.resources
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\obj\Debug\hotel_management_app.Properties.Resources.resources
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\obj\Debug\hotel-management-app.csproj.GenerateResource.cache
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\obj\Debug\hotel-management-app.csproj.CoreCompileInputs.cache
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\obj\Debug\hotel-management-app.csproj.CopyComplete
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\obj\Debug\hotel-management-app.exe
+C:\Users\dai70\Desktop\Project-2\hotel_manager_app\hotel-management-app\obj\Debug\hotel-management-app.pdb
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\bin\Debug\hotel-management-app.exe.config
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\bin\Debug\hotel-management-app.exe
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\bin\Debug\hotel-management-app.pdb
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\obj\Debug\hotel-management-app.csproj.AssemblyReference.cache
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\obj\Debug\hotel-management-app.csproj.SuggestedBindingRedirects.cache
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\obj\Debug\hotel_management_app.Forms.Authenticate.AuthenticateForm.resources
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\obj\Debug\hotel_management_app.Forms.Authenticate.ForgotPasswordForm.resources
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\obj\Debug\hotel_management_app.Forms.Authenticate.LoginForm.resources
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\obj\Debug\hotel_management_app.Forms.Authenticate.RegisterForm.resources
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\obj\Debug\hotel_management_app.Forms.CustomerManagement.CustomerManagementForm.resources
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\obj\Debug\hotel_management_app.Forms.HomePage.HomePageForm.resources
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\obj\Debug\hotel_management_app.Forms.HotelRoomManagement.HotelRoomDetailForm.resources
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\obj\Debug\hotel_management_app.Forms.HotelRoomManagement.HotelRoomManagementForm.resources
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\obj\Debug\hotel_management_app.Forms.HotelRoom.HotelRoomItem.resources
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\obj\Debug\hotel_management_app.Forms.HotelRoom.HotelRoomPlanForm.resources
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\obj\Debug\hotel_management_app.Forms.HotelRoomPlane.RoomHotelDetailForm.resources
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\obj\Debug\hotel_management_app.Forms.UserManagememt.UserManagementForm.resources
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\obj\Debug\hotel_management_app.Properties.Resources.resources
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\obj\Debug\hotel-management-app.csproj.GenerateResource.cache
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\obj\Debug\hotel-management-app.csproj.CoreCompileInputs.cache
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\obj\Debug\hotel-management-app.csproj.CopyComplete
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\obj\Debug\hotel-management-app.exe
+C:\Users\thai0\Desktop\Pm phân tán 2\hotel-management-app\obj\Debug\hotel-management-app.pdb
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\bin\Debug\hotel-management-app.exe.config
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\bin\Debug\hotel-management-app.exe
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\bin\Debug\hotel-management-app.pdb
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\obj\Debug\hotel-management-app.csproj.AssemblyReference.cache
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\obj\Debug\hotel-management-app.csproj.SuggestedBindingRedirects.cache
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\obj\Debug\hotel_management_app.Forms.Authenticate.AuthenticateForm.resources
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\obj\Debug\hotel_management_app.Forms.Authenticate.ForgotPasswordForm.resources
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\obj\Debug\hotel_management_app.Forms.Authenticate.LoginForm.resources
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\obj\Debug\hotel_management_app.Forms.Authenticate.RegisterForm.resources
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\obj\Debug\hotel_management_app.Forms.CustomerManagement.CustomerManagementForm.resources
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\obj\Debug\hotel_management_app.Forms.HomePage.HomePageForm.resources
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\obj\Debug\hotel_management_app.Forms.HotelRoomManagement.HotelRoomDetailForm.resources
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\obj\Debug\hotel_management_app.Forms.HotelRoomManagement.HotelRoomManagementForm.resources
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\obj\Debug\hotel_management_app.Forms.HotelRoom.HotelRoomItem.resources
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\obj\Debug\hotel_management_app.Forms.HotelRoom.HotelRoomPlanForm.resources
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\obj\Debug\hotel_management_app.Forms.HotelRoomPlane.RoomHotelDetailForm.resources
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\obj\Debug\hotel_management_app.Forms.UserManagememt.UserManagementForm.resources
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\obj\Debug\hotel_management_app.Properties.Resources.resources
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\obj\Debug\hotel-management-app.csproj.GenerateResource.cache
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\obj\Debug\hotel-management-app.csproj.CoreCompileInputs.cache
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\obj\Debug\hotel-management-app.csproj.CopyComplete
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\obj\Debug\hotel-management-app.exe
+C:\Users\thai0\Desktop\hotel app\hotel-management-app\obj\Debug\hotel-management-app.pdb
